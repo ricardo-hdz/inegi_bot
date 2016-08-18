@@ -1,0 +1,35 @@
+{
+  "name": "inegi_bot",
+  "version": "1.0.0",
+  "description": "A Telegram Bot to provide with press release updates from INEGI related to economic statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardo-hdz/inegi_bot"
+  },
+  "keywords": [
+    "inegi",
+    "telegram",
+    "bot"
+  ],
+  "author": "Ricardo Hdz",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ricardo-hdz/inegi_bot/issues"
+  },
+  "dependencies":{
+    "bluebird": "^3.4.1",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "claudia-bot-builder": "^1.4.0",
+    "lodash": "^4.14.0",
+    "mocha": "^2.5.3",
+    "parse-json": "^2.2.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.0.2"
+  },
+  "homepage": "https://github.com/ricardo-hdz/inegi_bot"
+}
