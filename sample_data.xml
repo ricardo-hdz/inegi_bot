@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>INEGI - Todos los temas</title>
+		<link>http://www.inegi.org.mx/</link>
+		<description>Comunicados de todos los temas del Instituto Nacional de Estadística y Geografía.</description>
+		<language>es-MX</language>
+		<copyright>Derechos Reservados © INEGI</copyright>
+		<pubDate>Tue, 01 May 2007 14:00:00 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Aug 2016 13:00:00 GMT</lastBuildDate>
+		<image>
+			<url>http://www.inegi.org.mx/inegi/contenidos/espanol/rss/img/inegi.gif</url>
+			<title>INEGI</title>
+			<link>http://www.inegi.org.mx/</link>
+		</image>
+
+		<item>
+			<title>Estadística Mensual sobre Establecimientos con Programa IMMEX. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/est_immex/est_immex2016_08.pdf</link>
+			<description>El personal ocupado en los establecimientos con programa IMMEX se incrementó 0.6% en el quinto mes de este año respecto al mes que le precede, con cifras desestacionalizadas. Según el tipo de establecimiento en el que labora, en los manufactureros avanzó 0.5% y en los no manufactureros (que llevan a cabo actividades relativas a la agricultura, pesca, comercio y a los servicios) disminuyó (-)0.6% a tasa mensual.</description>
+			<category>est_immex</category>
+			<pubDate>Mon, 15 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Estadística Mensual sobre Establecimientos con Programa IMMEX. Cifras durante mayo de 2016. (Cuadro resumen)</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/est_immex/est_immex2016_08.xls</link>
+			<description>El personal ocupado en los establecimientos con programa IMMEX se incrementó 0.6% en el quinto mes de este año respecto al mes que le precede, con cifras desestacionalizadas. Según el tipo de establecimiento en el que labora, en los manufactureros avanzó 0.5% y en los no manufactureros (que llevan a cabo actividades relativas a la agricultura, pesca, comercio y a los servicios) disminuyó (-)0.6% a tasa mensual.</description>
+			<category>est_immex</category>
+			<pubDate>Mon, 15 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Resultados de la Encuesta Nacional de Ocupación y Empleo. Cifras durante el segundo trimestre de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/enoe_ie/enoe_ie2016_08.pdf   </link>
+			<description>En el trimestre de referencia, la Población Económicamente Activa (PEA) del país se ubicó en 53.5 millones de personas, que significan 59.6% de la población de 15 años y más.</description>
+			<category>est_ocuem</category>
+			<pubDate>Fri, 12 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Resultados de la Encuesta Nacional de Ocupación y Empleo. Cifras durante el segundo trimestre de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/enoe_ie/enoe_ie2016_08.xls  </link>
+			<description>En el trimestre de referencia, la Población Económicamente Activa (PEA) del país se ubicó en 53.5 millones de personas, que significan 59.6% de la población de 15 años y más.</description>
+			<category>est_ocuem</category>
+			<pubDate>Fri, 12 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Información Oportuna sobre la Actividad Industrial en México. Durante junio de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/actind/actind2016_08.pdf</link>
+			<description>El INEGI informa que la Producción Industrial del país creció 0.1% durante el sexto mes de 2016 frente a la de un mes antes, con base en cifras desestacionalizadas.</description>
+			<category>act_indus</category>
+			<pubDate>Thu, 11 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Información Oportuna sobre la Actividad Industrial en México. Durante junio de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/actind/actind2016_08.xls</link>
+			<description>El INEGI informa que la Producción Industrial del país creció 0.1% durante el sexto mes de 2016 frente a la de un mes antes, con base en cifras desestacionalizadas.</description>
+			<category>act_indus</category>
+			<pubDate>Thu, 11 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Estadísticas a propósito del Día Internacional de la Juventud (15 a 29 años). 12 de agosto.    </title>
+			<link>http://www.inegi.org.mx/saladeprensa/aproposito/2016/juventud2016_0.pdf    </link>
+			<description>En 2015, residían en México 30.6 millones de jóvenes de 15 a 29 años, que representan el 25.7% de la población total.  </description>
+			<category>est_aprop</category>
+			<pubDate>Wed, 10 Aug 2016 16:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores Trimestrales de la Actividad Turística. Durante el primer trimestre de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/itat/itat2016_08.pdf</link>
+			<description>Durante el primer trimestre del año en curso el Indicador Trimestral del PIB Turístico avanzó en términos reales 0.2% con relación al trimestre inmediato anterior con cifras desestacionalizadas, y el del Consumo Turístico Interior fue mayor en 1.6 por ciento.</description>
+			<category>act_turis</category>
+			<pubDate>Wed, 10 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores Trimestrales de la Actividad Turística. Durante el primer trimestre de 2016 (cuadro resumen)</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/itat/itat2016_08.xls</link>
+			<description>Durante el primer trimestre del año en curso el Indicador Trimestral del PIB Turístico avanzó en términos reales 0.2% con relación al trimestre inmediato anterior con cifras desestacionalizadas, y el del Consumo Turístico Interior fue mayor en 1.6 por ciento.</description>
+			<category>act_turis</category>
+			<pubDate>Wed, 10 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios Productor. Durante julio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpp/inpp2016_08.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que durante julio de 2016 el Índice Nacional de Precios Productor (INPP) Total, excluyendo petróleo, presentó un aumento mensual de 0.48%, alcanzando una tasa anual de 5.52 por ciento. En igual mes de 2015 las cifras fueron de 0.57% mensual y de 3.31% anual.</description>
+			<category>inpp</category>
+			<pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios Productor. Durante julio de 2016 (cuadro resumen)</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpp/inpp2016_08.xls</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que durante julio de 2016 el Índice Nacional de Precios Productor (INPP) Total, excluyendo petróleo, presentó un aumento mensual de 0.48%, alcanzando una tasa anual de 5.52 por ciento. En igual mes de 2015 las cifras fueron de 0.57% mensual y de 3.31% anual.</description>
+			<category>inpp</category>
+			<pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios al Consumidor. Durante julio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpc_2q/inpc_2q2016_08.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en julio de 2016 el Índice Nacional de Precios al Consumidor (INPC) registró un incremento de 0.26 por ciento, así como una tasa de inflación anual de 2.65 por ciento. Los datos correspondientes al mismo periodo del año anterior fueron de 0.15 por ciento mensual y de 2.74 por ciento de inflación anual.</description>
+			<category>inpc_2</category>
+			<pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios al Consumidor. Durante julio de 2016 (cuadro resumen)</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpc_2q/inpc_2q2016_08.xls</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en julio de 2016 el Índice Nacional de Precios al Consumidor (INPC) registró un incremento de 0.26 por ciento, así como una tasa de inflación anual de 2.65 por ciento. Los datos correspondientes al mismo periodo del año anterior fueron de 0.15 por ciento mensual y de 2.74 por ciento de inflación anual.</description>
+			<category>inpc_2</category>
+			<pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Información revisada sobre la balanza comercial de México. Durante junio de 2016</title>
+			<link>http://www3.inegi.org.mx/sistemas/sisept/default.aspx?t=ext01&amp;s=est&amp;c=24697</link>
+			<description>Información revisada sobre la balanza comercial de Mercancías de México durante junio de 2016.</description>
+			<category>bal_comer_r</category>
+			<pubDate>Tue, 09 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Mensual de la Actividad Industrial por Entidad Federativa. Cifras durante abril de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/sistemas/bie/cuadrosestadisticos/GeneraCuadro.aspx?s=est&amp;nc=470&amp;c=26625</link>
+			<description>Indicador Mensual de la Actividad Industrial por Entidad Federativa. Cifras durante abril de 2016.</description>
+			<category>act_ind_ef</category>
+			<pubDate>Mon, 08 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Estadísticas a propósito del Día Internacional de los Pueblos Indígenas. 9 de agosto.     </title>
+			<link>http://www.inegi.org.mx/saladeprensa/aproposito/2016/indigenas2016_0.pdf           </link>
+			<description>En 2015, 6.5% de la población en México habla alguna lengua indígena.      </description>
+			<category>est_aprop</category>
+			<pubDate>Fri, 05 Aug 2016 16:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Mensual del Consumo Privado en el Mercado Interior. Cifras durante mayo de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/imcpmi/imcpmi2016_08.pdf</link>
+			<description>El Indicador Mensual del Consumo Privado en el Mercado Interior (IMCPMI) ascendió en términos reales 1.6% durante mayo de 2016 frente al mes inmediato anterior, con cifras desestacionalizadas.</description>
+			<category>cons_priv</category>
+			<pubDate>Fri, 05 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Mensual del Consumo Privado en el Mercado Interior. Cifras durante mayo de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/imcpmi/imcpmi2016_08.xls</link>
+			<description>El Indicador Mensual del Consumo Privado en el Mercado Interior (IMCPMI) ascendió en términos reales 1.6% durante mayo de 2016 frente al mes inmediato anterior, con cifras desestacionalizadas.</description>
+			<category>cons_priv</category>
+			<pubDate>Fri, 05 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice de Confianza del Consumidor. Cifras durante julio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/concon/concon2016_08.pdf</link>
+			<description>En julio de 2016, el Índice de Confianza del Consumidor (ICC) elaborado de manera conjunta por el INEGI y el Banco de México presentó una reducción mensual de (-)1.8% con cifras ajustadas por estacionalidad.</description>
+			<category>con_consu</category>
+			<pubDate>Thu, 04 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice de Confianza del Consumidor. Cifras durante julio de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/concon/concon2016_08.xls</link>
+			<description>En julio de 2016, el Índice de Confianza del Consumidor (ICC) elaborado de manera conjunta por el INEGI y el Banco de México presentó una reducción mensual de (-)1.8% con cifras ajustadas por estacionalidad.</description>
+			<category>con_consu</category>
+			<pubDate>Thu, 04 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Mensual de la Inversión Fija Bruta en México. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/invfibu/invfibu2016_08.pdf</link>
+			<description>La Inversión Fija Bruta, que representa los gastos realizados en Maquinaria y equipo de origen nacional e importado, así como los de Construcción, presentó un aumento real de 0.7% en el quinto mes de 2016 frente a la del mes precedente, con cifras desestacionalizadas.</description>
+			<category>inv_fijab</category>
+			<pubDate>Wed, 03 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Mensual de la Inversión Fija Bruta en México. Cifras durante mayo de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/invfibu/invfibu2016_08.xls</link>
+			<description>La Inversión Fija Bruta, que representa los gastos realizados en Maquinaria y equipo de origen nacional e importado, así como los de Construcción, presentó un aumento real de 0.7% en el quinto mes de 2016 frente a la del mes precedente, con cifras desestacionalizadas.</description>
+			<category>inv_fijab</category>
+			<pubDate>Wed, 03 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Sistema de Indicadores Cíclicos. Cifras a mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/sic_cya/sic_cya2016_08.pdf</link>
+			<description>Los principales resultados son los siguientes: en mayo de 2016 el Indicador Coincidente se ubicó ligeramente por debajo de su tendencia de largo plazo al registrar un valor de 99.9 puntos y una variación de (-)0.02 puntos respecto al mes anterior.</description>
+			<category>sic_coiad</category>
+			<pubDate>Tue, 02 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Sistema de Indicadores Cíclicos. Cifras a mayo de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/sic_cya/sic_cya2016_08.xls</link>
+			<description>Los principales resultados son los siguientes: en mayo de 2016 el Indicador Coincidente se ubicó ligeramente por debajo de su tendencia de largo plazo al registrar un valor de 99.9 puntos y una variación de (-)0.02 puntos respecto al mes anterior.</description>
+			<category>sic_coiad</category>
+			<pubDate>Tue, 02 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Expectativas Empresariales. Cifras durante julio de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ee/ee2016_08.pdf</link>
+			<description>En su comparación anual y con datos originales, las Expectativas Empresariales del sector Manufacturero relacionadas con la Inversión en planta y equipo fueron superiores en 1.3 puntos y las del Personal ocupado en 0.4 puntos durante julio pasado; en el sector de la Construcción, las relativas al Total de contratos y subcontratos crecieron 0.8 puntos y las del Valor de las obras ejecutadas como subcontratista 0.7 puntos.  Respecto al sector Comercio, la apreciación sobre el Personal ocupado se incrementó 2.9 puntos durante el mes de referencia frente a la que se tenía en julio de 2015.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Expectativas Empresariales. Cifras durante julio de 2016. (Cuadro resumen).</title>
+			<link> http://www.inegi.org.mx/saladeprensa/boletines/2016/ee/ee2016_08.xls</link>
+			<description>En su comparación anual y con datos originales, las Expectativas Empresariales del sector Manufacturero relacionadas con la Inversión en planta y equipo fueron superiores en 1.3 puntos y las del Personal ocupado en 0.4 puntos durante julio pasado; en el sector de la Construcción, las relativas al Total de contratos y subcontratos crecieron 0.8 puntos y las del Valor de las obras ejecutadas como subcontratista 0.7 puntos.  Respecto al sector Comercio, la apreciación sobre el Personal ocupado se incrementó 2.9 puntos durante el mes de referencia frente a la que se tenía en julio de 2015.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador de Confianza Empresarial. Cifras durante julio de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ice/ice2016_08.pdf</link>
+			<description>A nivel de sector, el Indicador de Confianza Empresarial Manufacturero mostró una caída mensual de (-)0.17 puntos, con cifras desestacionalizadas durante el séptimo mes de 2016.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador de Confianza Empresarial. Cifras durante julio de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ice/ice2016_08.xls</link>
+			<description>A nivel de sector, el Indicador de Confianza Empresarial Manufacturero mostró una caída mensual de (-)0.17 puntos, con cifras desestacionalizadas durante el séptimo mes de 2016.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador de Pedidos Manufactureros. Cifras durante julio de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ipm/ipm2016_08.pdf</link>
+			<description>En julio de 2016, el IPM se situó en 51.4 puntos en su serie desestacionalizada, lo que significó una disminución de (-)0.52 puntos con relación al mes previo. Con dicho resultado, este indicador acumula 83 meses consecutivos ubicándose por encima del umbral de 50 puntos. A su interior, se observaron reducciones mensuales desestacionalizadas en los componentes referentes al personal ocupado, a la oportunidad de entrega de insumos por parte de los proveedores y a los inventarios de insumos, en tanto que el de pedidos esperados y el de producción esperada mostraron incrementos.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador de Pedidos Manufactureros. Cifras durante julio de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ipm/ipm2016_08.xls</link>
+			<description>En julio de 2016, el IPM se situó en 51.4 puntos en su serie desestacionalizada, lo que significó una disminución de (-)0.52 puntos con relación al mes previo. Con dicho resultado, este indicador acumula 83 meses consecutivos ubicándose por encima del umbral de 50 puntos. A su interior, se observaron reducciones mensuales desestacionalizadas en los componentes referentes al personal ocupado, a la oportunidad de entrega de insumos por parte de los proveedores y a los inventarios de insumos, en tanto que el de pedidos esperados y el de producción esperada mostraron incrementos.</description>
+			<category>opi_seman</category>
+			<pubDate>Mon, 01 Aug 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Cuenta Satélite de Vivienda de México, 2014.   </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_07_06.pdf    </link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) presenta la “Cuenta Satélite de la Vivienda de México, 2014”, con año base 2008, la cual forma parte de los productos del Sistema de Cuentas Nacionales de México, y constituye un acervo estadístico importante para apoyar la toma de decisiones sobre este sector.  </description>
+			<category>sociodem</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Industria Minerometalúrgica en México. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/ind_miner/ind_miner2016_07.pdf</link>
+			<description>El índice de volumen físico de la Producción Minerometalúrgica del país (referida a las actividades de extracción, beneficio, fundición y afinación de minerales metálicos y no metálicos) decreció (-)2.6% con base en cifras desestacionalizadas en el quinto mes de 2016 frente al mes inmediato anterior.</description>
+			<category>ind_miner</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Industria Minerometalúrgica en México. Cifras durante mayo de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/ind_miner/ind_miner2016_07.xls</link>
+			<description>El índice de volumen físico de la Producción Minerometalúrgica del país (referida a las actividades de extracción, beneficio, fundición y afinación de minerales metálicos y no metálicos) decreció (-)2.6% con base en cifras desestacionalizadas en el quinto mes de 2016 frente al mes inmediato anterior.</description>
+			<category>ind_miner</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta Nacional de Empresas Constructoras. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/enec/enec2016_07.pdf</link>
+			<description>Con base en cifras desestacionalizadas, el valor de producción generado por las empresas constructoras registró un incremento real de 0.1% en mayo de este año respecto al mes que le precede, el personal ocupado retrocedió (-)0.9% y las horas trabajadas (-)1%, en tanto que las remuneraciones medias reales crecieron 0.2% en el lapso de un mes.</description>
+			<category>emp_const</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta Nacional de Empresas Constructoras. Cifras durante mayo de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/enec/enec2016_07.xls</link>
+			<description>Con base en cifras desestacionalizadas, el valor de producción generado por las empresas constructoras registró un incremento real de 0.1% en mayo de este año respecto al mes que le precede, el personal ocupado retrocedió (-)0.9% y las horas trabajadas (-)1%, en tanto que las remuneraciones medias reales crecieron 0.2% en el lapso de un mes.</description>
+			<category>emp_const</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producto Interno Bruto - Estimación Oportuna. Durante el 2o. trimestre de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/pib_eo/pib_eo2016_07.pdf</link>
+			<description>El INEGI presenta los resultados de la Estimación Oportuna del Producto Interno Bruto (PIB) Trimestral, los cuales señalan que éste disminuyó (-)0.3% durante el segundo trimestre de 2016 respecto al trimestre anterior, con cifras ajustadas por estacionalidad. Por componentes, las Actividades Primarias disminuyeron (-)0.1% y las Secundarias (-)1.7%, mientras que las Terciarias permanecieron sin variación 0.0%, en relación al trimestre previo.</description>
+			<category>pib_eot</category>
+			<pubDate>Fri, 29 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador trimestral de la Actividad Económica Estatal. Durante el primer trimestre de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/itaee/itaee2016_07.pdf</link>
+			<description>Durante el primer trimestre de este año, las entidades federativas que tuvieron los mayores incrementos con cifras desestacionalizadas respecto al trimestre previo en su actividad económica fueron: Guerrero, Michoacán de Ocampo, Hidalgo, Chiapas, Veracruz de Ignacio de la Llave, Jalisco, Aguascalientes y Guanajuato, principalmente.</description>
+			<category>act_eco_e</category>
+			<pubDate>Thu, 28 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador trimestral de la Actividad Económica Estatal. Durante el primer trimestre de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/itaee/itaee2016_07.xls</link>
+			<description>Durante el primer trimestre de este año, las entidades federativas que tuvieron los mayores incrementos con cifras desestacionalizadas respecto al trimestre previo en su actividad económica fueron: Guerrero, Michoacán de Ocampo, Hidalgo, Chiapas, Veracruz de Ignacio de la Llave, Jalisco, Aguascalientes y Guanajuato, principalmente.</description>
+			<category>act_eco_e</category>
+			<pubDate>Thu, 28 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores Oportunos de Ocupación y Empleo. Cifras oportunas durante junio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/iooe/iooe2016_07.pdf     </link>
+			<description>El INEGI informa sobre los principales resultados de la Encuesta Nacional de Ocupación y Empleo (ENOE) para el sexto mes de este año, los cuales indican que 59.1% de la población de 15 años y más en el país es económicamente activa (tasa de participación). Esta cifra descendió respecto a la observada en el mes inmediato anterior de 59.8%, con datos desestacionalizados.</description>
+			<category>ocu_emple</category>
+			<pubDate>Wed, 27 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores Oportunos de Ocupación y Empleo. Cifras oportunas durante junio de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/iooe/iooe2016_07.xls   </link>
+			<description>El INEGI informa sobre los principales resultados de la Encuesta Nacional de Ocupación y Empleo (ENOE) para el sexto mes de este año, los cuales indican que 59.1% de la población de 15 años y más en el país es económicamente activa (tasa de participación). Esta cifra descendió respecto a la observada en el mes inmediato anterior de 59.8%, con datos desestacionalizados.</description>
+			<category>ocu_emple</category>
+			<pubDate>Wed, 27 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Mensaje de CONEVAL e INEGI a la Opinión Pública.    </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_07_05.pdf   </link>
+			<description>Por la importancia de contar con la evolución histórica de la medición de la pobreza, el Instituto Nacional de Estadística y Geografía (INEGI) y el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) han convenido establecer un grupo técnico de trabajo que revise los detalles del Módulo de Condiciones Socioeconómicas (MCS-2015), incluidos los cambios operativos para la captación del ingreso adoptadas por el INEGI. Este grupo evaluará la posibilidad de poner a disposición de CONEVAL un instrumento comparable entre 2015 y los años anteriores.</description>
+			<category>sociodem</category>
+			<pubDate>Tue, 26 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Global de la Actividad Económica. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/igae/igae2016_07.pdf    </link>
+			<description>El INEGI informa que el Indicador Global de la Actividad Económica (IGAE) creció 1% en términos reales durante mayo de 2016 frente al mes previo, con cifras desestacionalizadas.</description>
+			<category>glo_actec</category>
+			<pubDate>Tue, 26 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicador Global de la Actividad Económica. Cifras durante mayo de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/igae/igae2016_07.xls   </link>
+			<description>El INEGI informa que el Indicador Global de la Actividad Económica (IGAE) creció 1% en términos reales durante mayo de 2016 frente al mes previo, con cifras desestacionalizadas.</description>
+			<category>glo_actec</category>
+			<pubDate>Tue, 26 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Información Oportuna sobre la Balanza Comercial de Mercancías de México. Durante junio de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/balcom_o/balcom_o2016_07.pdf  </link>
+			<description>La información oportuna de comercio exterior de junio de 2016 indica un déficit comercial de (-)524 millones de dólares, saldo similar al déficit de (-)527 millones de dólares reportado en mayo. El saldo de junio se compara con el déficit de (-)827 millones de dólares registrado en el sexto mes de 2015. Con el saldo en el mes en cuestión, la balanza comercial presentó un déficit de (-)7,116 millones de dólares durante los seis primeros meses del año.</description>
+			<category>bal_comer_o</category>
+			<pubDate>Tue, 26 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores del Sector Servicios. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ems/ems2016_07.pdf</link>
+			<description>Con cifras desestacionalizadas durante mayo de este año los Ingresos obtenidos por la prestación de los Servicios Privados no Financieros crecieron 0.1% en términos reales, los Gastos por Consumo de Bienes y Servicios 1.5% y el Personal Ocupado aumentó 0.3%; mientras que la masa de las Remuneraciones Totales disminuyó (-)0.4% frente al mes inmediato anterior.</description>
+			<category>sec_servi</category>
+			<pubDate>Mon, 25 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores del Sector Servicios. Cifras durante mayo de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ems/ems2016_07.xls</link>
+			<description>Con cifras desestacionalizadas durante mayo de este año los Ingresos obtenidos por la prestación de los Servicios Privados no Financieros crecieron 0.1% en términos reales, los Gastos por Consumo de Bienes y Servicios 1.5% y el Personal Ocupado aumentó 0.3%; mientras que la masa de las Remuneraciones Totales disminuyó (-)0.4% frente al mes inmediato anterior.</description>
+			<category>sec_servi</category>
+			<pubDate>Mon, 25 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta mensual sobre Empresas Comerciales. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/emec/emec2016_07.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en las Empresas Comerciales al por Mayor, los Ingresos reales por suministro de bienes y servicios aumentaron 1%, las Remuneraciones medias reales pagadas 0.6% y el Personal Ocupado 0.4% durante mayo de este año frente al mes que le precede, con cifras desestacionalizadas.</description>
+			<category>est_comer</category>
+			<pubDate>Mon, 25 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta mensual sobre Empresas Comerciales. Cifras durante mayo de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/emec/emec2016_07.xls</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en las Empresas Comerciales al por Mayor, los Ingresos reales por suministro de bienes y servicios aumentaron 1%, las Remuneraciones medias reales pagadas 0.6% y el Personal Ocupado 0.4% durante mayo de este año frente al mes que le precede, con cifras desestacionalizadas.</description>
+			<category>est_comer</category>
+			<pubDate>Mon, 25 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios al Consumidor. 1a. quincena de julio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpc_1q/inpc_1q2016_07.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en la primera quincena de julio de 2016 el Índice Nacional de Precios al Consumidor (INPC) presentó un incremento de 0.28 por ciento, así como una tasa de inflación anual de 2.72 por ciento. En igual periodo de 2015 los datos fueron de una variación de 0.09 por ciento quincenal y de 2.76 por ciento de inflación anual.</description>
+			<category>inpc_1</category>
+			<pubDate>Fri, 22 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índice Nacional de Precios al Consumidor. 1a. quincena de julio de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/inpc_1q/inpc_1q2016_07.xls</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) informa que en la primera quincena de julio de 2016 el Índice Nacional de Precios al Consumidor (INPC) presentó un incremento de 0.28 por ciento, así como una tasa de inflación anual de 2.72 por ciento. En igual periodo de 2015 los datos fueron de una variación de 0.09 por ciento quincenal y de 2.76 por ciento de inflación anual.</description>
+			<category>inpc_1</category>
+			<pubDate>Fri, 22 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores del sector manufacturero. Cifras durante mayo de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/emim/emim2016_07.pdf  </link>
+			<description>Con base en los resultados de la Encuesta Mensual de la Industria Manufacturera (EMIM), el personal ocupado del sector manufacturero presentó un aumento de 0.3% en mayo de este año respecto al mes inmediato anterior, con datos ajustados por estacionalidad.</description>
+			<category>sec_manuf</category>
+			<pubDate>Wed, 20 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores del sector manufacturero. Cifras durante mayo de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/emim/emim2016_07.xls  </link>
+			<description>Con base en los resultados de la Encuesta Mensual de la Industria Manufacturera (EMIM), el personal ocupado del sector manufacturero presentó un aumento de 0.3% en mayo de este año respecto al mes inmediato anterior, con datos ajustados por estacionalidad.</description>
+			<category>sec_manuf</category>
+			<pubDate>Wed, 20 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Se difunden Estadísticas detalladas sobre las Micro, Pequeñas y Medianas Empresas del país.  </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_07_02.pdf    </link>
+			<description>El Instituto Nacional de Estadística y Geografía, el Instituto Nacional del Emprendedor y el Banco Nacional de Comercio Exterior, presentan por primera vez la Encuesta Nacional sobre Productividad y Competitividad de las Micro, Pequeñas y Medianas Empresas (ENAPROCE) 2015, que provee información de alcance nacional sobre las habilidades gerenciales y de emprendimiento, así como de los apoyos gubernamentales que reciben, para contribuir al fomento de la cultura empresarial en nuestro país.  </description>
+			<category>economia</category>
+			<pubDate>Wed, 13 Jul 2016 21:30:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Ajustes al Calendario de Difusión de la Información Estadística, Geográfica y de Interés Nacional 2016.   </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_07_01.pdf  </link>
+			<description>La Junta de Gobierno del INEGI aprobó modificaciones al Calendario de Difusión de la Información Estadística, Geográfica y de Interés Nacional 2016. Con el propósito de brindar transparencia a la información que difunde el Instituto, a continuación se detallan los ajustes.    </description>
+			<category>act_inegi</category>
+			<pubDate>Thu, 07 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta Nacional de Seguridad Pública Urbana. Cifras durante junio de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ensu/ensu2016_07.pdf</link>
+			<description>De acuerdo con la información del duodécimo levantamiento de la Encuesta Nacional de Seguridad Pública Urbana (ENSU) realizada por el INEGI, durante el pasado mes de junio de 2016 se encontró que 70% de la población de 18 años y más consideró que vivir en su ciudad es inseguro; dicho resultado no presenta un cambio significativo respecto a junio de 2015.</description>
+			<category>seg_publi</category>
+			<pubDate>Wed, 06 Jul 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Calendario de difusión de información de coyuntura, tercer trimestre 2016.      </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_06_04.pdf   </link>
+			<description>El INEGI da a conocer el Calendario de difusión de información de coyuntura, tercer trimestre 2016.     </description>
+			<category>economia</category>
+			<pubDate>Wed, 29 Jun 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Oferta y Demanda Global de Bienes y Servicios en México. Durante el primer trimestre de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/ofe_deman/ofe_deman2016_06.pdf </link>
+			<description>La Oferta Global (igual a la Demanda Global) de Bienes y Servicios creció 0.5% en términos reales con series desestacionalizadas durante el primer trimestre de 2016 respecto al trimestre inmediato anterior.</description>
+			<category>ofe_deman</category>
+			<pubDate>Mon, 20 Jun 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Oferta y Demanda Global de Bienes y Servicios en México. Durante el primer trimestre de 2016 (cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/ofe_deman/ofe_deman2016_06.xls  </link>
+			<description>La Oferta Global (igual a la Demanda Global) de Bienes y Servicios creció 0.5% en términos reales con series desestacionalizadas durante el primer trimestre de 2016 respecto al trimestre inmediato anterior.</description>
+			<category>ofe_deman</category>
+			<pubDate>Mon, 20 Jun 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Encuesta Nacional de Inclusión Financiera 2015.              </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_06_02.pdf    </link>
+			<description>La Secretaría de Hacienda y Crédito Público (SHCP), a través de la Comisión Nacional Bancaria y de Valores (CNBV), en colaboración con el Instituto Nacional de Estadística y Geografía (INEGI), llevaron a cabo el segundo levantamiento de la Encuesta Nacional de Inclusión Financiera (ENIF), con los objetivos de continuar con el esfuerzo de medición de la demanda de servicios financieros iniciado en 2012 y generar información relevante para evaluar el avance en inclusión financiera en México.          </description>
+			<category>economia</category>
+			<pubDate>Wed, 15 Jun 2016 16:30:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índices de Productividad Laboral y del Costo Unitario de la Mano de Obra. 1er. trimestre de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ipl/ipl2016_06.pdf</link>
+			<description>En el primer trimestre de 2016 el Índice Global de Productividad Laboral de la Economía (IGPLE) con base en horas trabajadas aumentó 0.8% en comparación con el trimestre inmediato anterior, con cifras ajustadas por estacionalidad.  Por grupos de actividad económica, la Productividad Laboral en las actividades primarias se elevó 3.4% y en las terciarias 1%, en tanto que en las actividades secundarias disminuyó (-)1 por ciento.</description>
+			<category>pro_labor</category>
+			<pubDate>Mon, 13 Jun 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Índices de Productividad Laboral y del Costo Unitario de la Mano de Obra. 1er. trimestre de 2016 (cuadro resumen)</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/ipl/ipl2016_06.xls</link>
+			<description>En el primer trimestre de 2016 el Índice Global de Productividad Laboral de la Economía (IGPLE) con base en horas trabajadas aumentó 0.8% en comparación con el trimestre inmediato anterior, con cifras ajustadas por estacionalidad.  Por grupos de actividad económica, la Productividad Laboral en las actividades primarias se elevó 3.4% y en las terciarias 1%, en tanto que en las actividades secundarias disminuyó (-)1 por ciento.</description>
+			<category>pro_labor</category>
+			<pubDate>Mon, 13 Jun 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Inicia la 3ª Conferencia Internacional sobre Estadísticas de Gobernanza, Seguridad y Justicia.   </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_06_01.pdf      </link>
+			<description>Este martes inició la 3ª Conferencia Internacional de Gobernanza, Seguridad y Justicia que, como cada dos años desde 2012, ofrece un espacio para construir un lenguaje estadístico común que facilite el entendimiento de fenómenos que impactan a la ciudadanía como el narcotráfico, la corrupción y los homicidios, entre otros crímenes.   </description>
+			<category>act_inegi</category>
+			<pubDate>Tue, 07 Jun 2016 18:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Resultados del Módulo de Trayectorias Laborales 2015.   </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_05_02.pdf       </link>
+			<description>El Presidente de la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR), Carlos Ramírez Fuentes y el Presidente de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía (INEGI), Julio Santaella Castell, presentaron hoy los resultados del segundo Módulo de Trayectorias Laborales (MOTRAL) 2015.  </description>
+			<category>act_inegi</category>
+			<pubDate>Tue, 31 May 2016 16:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producto Interno Bruto en México. Durante el primer trimestre de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/pib_pconst/pib_pconst2016_05.pdf</link>
+			<description>El INEGI presenta los resultados del Producto Interno Bruto (PIB), los cuales indican un aumento real de 0.8% durante el primer trimestre de 2016 respecto al inmediato anterior, con cifras ajustadas por estacionalidad.</description>
+			<category>pib_precn</category>
+			<pubDate>Fri, 20 May 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producto Interno Bruto en México.  Durante el primer trimestre de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/pib_pconst/pib_pconst2016_05.xls</link>
+			<description>El INEGI presenta los resultados del Producto Interno Bruto (PIB), los cuales indican un aumento real de 0.8% durante el primer trimestre de 2016 respecto al inmediato anterior, con cifras ajustadas por estacionalidad.</description>
+			<category>pib_precn</category>
+			<pubDate>Fri, 20 May 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producto interno bruto nominal. Del primer trimestre de 2016.</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/pib_precr/pib_precr2016_05.pdf</link>
+			<description>El Producto Interno Bruto Nominal (PIBN) a precios de mercado se situó en 18,482,682 millones de pesos (mp) corrientes (18.483 billones de pesos) en el primer trimestre de 2016, presentando un incremento de 5.3% con relación a igual lapso de 2015. Este resultado se originó de las variaciones de 2.6% del PIB real y de 2.7% del índice de precios implícitos del producto.</description>
+			<category>pib_precr</category>
+			<pubDate>Fri, 20 May 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producto interno bruto nominal. Del primer trimestre de 2016 (Cuadro resumen).</title>
+			<link>http://www.inegi.org.mx/saladeprensa/notasinformativas/2016/pib_precr/pib_precr2016_05.xls</link>
+			<description>El Producto Interno Bruto Nominal (PIBN) a precios de mercado se situó en 18,482,682 millones de pesos (mp) corrientes (18.483 billones de pesos) en el primer trimestre de 2016, presentando un incremento de 5.3% con relación a igual lapso de 2015. Este resultado se originó de las variaciones de 2.6% del PIB real y de 2.7% del índice de precios implícitos del producto.</description>
+			<category>pib_precr</category>
+			<pubDate>Fri, 20 May 2016 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Indicadores de Bienestar Autorreportado de la Población Urbana. Cifras a enero de 2016</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2016/especiales/especiales2016_02_6.pdf</link>
+			<description>El INEGI da a conocer los resultados del módulo de Bienestar Autorreportado (BIARE) con información correspondiente a enero de 2016</description>
+			<category>bienestar</category>
+			<pubDate>Thu, 25 Feb 2016 14:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Información de Interés Nacional en el Ámbito Geográfico.       </title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2015/especiales/especiales2015_12_42.pdf     </link>
+			<description>En términos de lo establecido en el artículo 6 de la Ley del Sistema Nacional de Estadística y Geografía (SNIEG), la Red Nacional de Caminos se establece como la base de datos carreteros con información oficial y de uso obligatorio para la federación, las 32 entidades federativas, los 2,456 municipios y las 16 delegaciones. Su actualización es anual y por ello, el pasado 15 de diciembre el INEGI publicó la versión más reciente.</description>
+			<category>inf_geogr</category>
+			<pubDate>Mon, 21 Dec 2015 20:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Infraestructura de Datos Espaciales  (IDE) de México</title>
+			<link>http://www.inegi.org.mx/saladeprensa/boletines/2015/especiales/especiales2015_11_5.pdf</link>
+			<description>Inició en la Ciudad de México el Foro Latinoamericano para la Información Geoespacial (LAGF) 2015, y en su sesión inaugural se presentó oficialmente la Infraestructura de Datos Espaciales (IDE) de México, una iniciativa nacional liderada por el Instituto Nacional de Estadística y Geografía (INEGI) con el apoyo de las Unidades del Estado, con el objetivo de producir, integrar y suministrar a la sociedad y al Estado información estadística y geográfica de calidad, pertinente, veraz y oportuna, a efecto de coadyuvar al desarrollo nacional.</description>
+			<category>inf_geogr</category>
+			<pubDate>Tue, 10 Nov 2015 22:25:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Módulo sobre disponibilidad y uso de las Tecnologías de la Información en hogares, 2014. </title>
+			<link>http://www.inegi.org.mx/inegi/contenidos/espanol/prensa/Boletines/Boletin/Comunicados/Especiales/2014/diciembre/comunica9.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) difunde los resultados sobre disponibilidad y uso de las Tecnologías de la Información en hogares (MODUTIH) 2014. Esta información se recaba mediante un Módulo temático que se levanta anexo a la Encuesta Nacional de Ocupación y Empleo (ENOE). El diseño muestral de estos estudios se caracteriza por ser probabilístico, lo que hace posible generalizar los resultados a toda la población.</description>
+			<category>cie_tecno</category>
+			<pubDate>Wed, 17 Dec 2014 14:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Producción manufacturera por entidad federativa, cifras al mes de diciembre de 2013.</title>
+			<link>http://www.inegi.org.mx/sistemas/bie/cuadrosestadisticos/GeneraCuadro.aspx?s=est&amp;nc=468&amp;c=26625</link>
+			<description>Producción manufacturera por entidad federativa, cifras al mes de diciembre de 2013.
+</description>
+			<category>pro_manuf</category>
+			<pubDate>Mon, 07 Apr 2014 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Distribución de energía eléctrica por entidad federativa, cifras al mes de diciembre de 2013.</title>
+			<link>http://www.inegi.org.mx/sistemas/bie/cuadrosestadisticos/GeneraCuadro.aspx?s=est&amp;nc=469&amp;c=26624</link>
+			<description>Distribución de energía eléctrica por entidad federativa, cifras al mes de diciembre de 2013.</description>
+			<category>dis_elect</category>
+			<pubDate>Mon, 07 Apr 2014 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>ESTADÍSTICA BÁSICA SOBRE MEDIO AMBIENTE</title>
+			<link>http://www.inegi.org.mx/inegi/contenidos/espanol/prensa/Boletines/Boletin/Comunicados/Especiales/2013/abril/comunica2.pdf</link>
+			<description>El Instituto Nacional de Estadística y Geografía (INEGI) genera estadística básica sobre la gestión de los servicios de agua potable y saneamiento, residuos sólidos urbanos en los municipios y delegaciones; así como el  comportamiento de los hogares en relación al medio ambiente; temas para el diseño de políticas públicas, la investigación y la ciudadanía en general.
+
+</description>
+			<category>med_ambie</category>
+			<pubDate>Tue, 09 Apr 2013 21:55:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
